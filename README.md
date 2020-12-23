@@ -1,1 +1,2 @@
-# plucking-mangoose
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
